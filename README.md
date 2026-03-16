@@ -1,29 +1,27 @@
-# Gizlilik Politikası (Privacy Policy)
+# Nöbetçi Eczane Bul - Gizlilik Politikası
 
-**Son Güncelleme:** 2 Şubat 2026
+Son Güncelleme: 16 Mart 2026
 
-**Nöbetçi Eczane Bul** ("uygulama"), kullanıcı gizliliğine en üst düzeyde önem verir. Bu politika metni, uygulamamızı kullandığınızda hangi verilerin ne amaçla işlendiğini şeffaf bir şekilde açıklar.
+MenekşeYNC olarak, "Nöbetçi Eczane Bul" uygulamamızı kullanan kullanıcılarımızın gizliliğine büyük önem veriyoruz. Bu politika, verilerinizin nasıl işlendiği hakkında sizi bilgilendirmek amacıyla hazırlanmıştır.
 
----
+### 1. Veri Toplama ve Kullanım
+Uygulamamızın temel işlevlerini yerine getirebilmesi için belirli verilere erişim sağlanmaktadır:
 
-### 1. Toplanan Veriler ve Kullanım Amaçları
-* **Hassas Konum Bilgisi:** Uygulamanın ana işlevi olan "size en yakın eczaneyi bulma" özelliğini sunabilmek için cihazınızın hassas konum verilerine (`ACCESS_FINE_LOCATION`) erişilir.
-* **Veri İşleme:** Bu veri sadece o anki mesafeyi hesaplamak için anlık olarak kullanılır ve hiçbir şekilde sunucularımızda saklanmaz veya kaydedilmez.
-* **Cihaz Bilgileri:** Uygulama performansını izlemek, çökme raporlarını analiz etmek ve hataları gidermek amacıyla anonim cihaz bilgileri (model, işletim sistemi sürümü vb.) toplanabilir.
+#### Konum Verileri (Hassas Kullanıcı Verisi)
+Uygulamamız, size en yakın nöbetçi eczaneleri harita üzerinde göstermek ve mesafe hesaplamak amacıyla cihazınızın **hassas konum verilerine (GPS ve ağ tabanlı)** erişir.
+- **Sağlık Verileri Bağlamı:** Konum verileriniz yalnızca mesafe hesaplama amacıyla kullanılır. Uygulamamız; tıbbi kayıtlar, reçete bilgileri, hastalık geçmişi veya sağlık durumunuzla ilişkilendirilebilecek herhangi bir **kişisel sağlık verisini (PHI) TOPLAMAZ, SAKLAMAZ ve PAYLAŞMAZ.**
+- **Kullanım Biçimi:** Konum bilgisiniz anlık olarak işlenir, sunucularımıza kaydedilmez ve sadece uygulama açıkken kullanılır.
 
-### 2. Üçüncü Taraf Hizmetleri
-Uygulamamız, işlevselliği sağlamak ve sürdürülebilirliği desteklemek için şu güvenilir üçüncü taraf hizmetlerini kullanır:
-* **Google AdMob:** Uygulama içinde reklam göstermek için kullanılır. AdMob, size ilgi alanınıza yönelik reklamlar sunmak için cihaz kimliğinizi (Advertising ID) kullanabilir.
-* **Google Haritalar (Maps):** Seçtiğiniz eczaneye yol tarifi sağlamak amacıyla dış bağlantı olarak kullanılır.
-* **OpenStreetMap (osmdroid):** Uygulama içinde harita görüntüleme hizmeti sunar.
+### 2. Reklamlar ve Üçüncü Taraflar
+Uygulama içinde reklam sunmak amacıyla Google AdMob kullanılmaktadır. AdMob, size ilgili reklamları göstermek için anonim tanımlayıcılar kullanabilir. Sağlık durumunuzla ilgili hiçbir veri veya hassas konum bilgisi, "sağlık profillemesi" amacıyla reklam ağlarıyla paylaşılmaz.
 
 ### 3. Veri Güvenliği ve Paylaşımı
-* **Satış Yasağı:** Kişisel verileriniz asla üçüncü şahıslara veya kurumlara ticari amaçla satılmaz.
-* **Kısıtlı Erişim:** Konum verileriniz sadece uygulama ön planda açıkken ve sizin açık rızanızla işlenir.
+- Verileriniz asla satılmaz.
+- Konum verileriniz, harita servislerinin (Google Maps/OSMDroid) çalışması için gereken teknik zorunluluklar dışında üçüncü taraflarla paylaşılmaz.
+- Kişisel sağlık verilerine (reçete, ilaç ismi vb.) hiçbir şekilde erişilmez.
 
 ### 4. Çocukların Gizliliği
-Bu uygulama, 13 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamaz. Eğer bir çocuğun bize bilgi verdiğini fark ederseniz, lütfen bizimle iletişime geçin; bu bilgileri derhal sistemimizden sileceğiz.
+Uygulamamız 13 yaş altı çocuklardan bilerek kişisel veri toplamaz.
 
 ### 5. İletişim
-Bu gizlilik politikası hakkında sorularınız veya geri bildirimleriniz için bizimle iletişime geçebilirsiniz:
-* **E-posta:** menekseync@gmail.com
+Bu gizlilik politikası hakkında sorularınız için bizimle iletişime geçebilirsiniz: menekseync@gmail.com

@@ -2,13 +2,15 @@
 
 Son Güncelleme: 18 Mart 2026
 
-MenekşeYNC ("biz"), "Nöbetçi Eczane Bul" mobil uygulaması aracılığıyla kullanıcılarımıza hizmet vermektedir. Bu gizlilik politikası, verilerinizin nasıl toplandığı, kullanıldığı ve açıklandığı hakkında sizi bilgilendirmek amacıyla, Google Play Kullanıcı Verileri Politikası'na uygun olarak hazırlanmıştır.
+MenekşeYNC olarak, "Nöbetçi Eczane Bul" uygulamamızı kullanan kullanıcılarımızın gizliliğine büyük önem veriyoruz.Bu politika, verilerinizin nasıl işlendiği ve silindiği hakkında sizi bilgilendirmek amacıyla hazırlanmıştır.
+
 
 ### 1. Erişilen ve Toplanan Verilerin Açıklanması (Health Data ve Konum)
 Uygulamamız, nöbetçi eczaneleri bulma temel işlevini yerine getirmek için aşağıdaki verilere erişir:
 
 - **Hassas Konum Verileri:** Size en yakın eczaneleri mesafe bazlı sıralayabilmek için cihazınızın hassas konumuna (GPS ve ağ tabanlı) erişiriz. 
-- **Sağlık Verileri (Health Data) Kapsamı:** Google Play politikaları gereği, eczane arama faaliyeti "Sağlık Verisi" kapsamında değerlendirilebilir. Uygulamamız; tıbbi durumunuz, ilaç reçeteleriniz veya kişisel sağlık geçmişinizle ilgili hiçbir **Tıbbi/Sağlık Verisini TOPLAMAZ, SAKLAMAZ ve İŞLEMEZ.** - **Kullanım Amacı:** Erişilen konum bilgisi sadece anlık mesafe hesaplaması (kullanıcı ile eczane arası) için kullanılır. Bu işlem tamamen cihaz üzerinde gerçekleşir; konumunuz sunucularımıza gönderilmez veya kaydedilmez.
+- **Sağlık Verileri (Health Data) Kapsamı:** Google Play politikaları gereği, eczane arama faaliyeti "Sağlık Verisi" kapsamında değerlendirilebilir. Uygulamamız; tıbbi durumunuz, ilaç reçeteleriniz veya kişisel sağlık geçmişinizle ilgili hiçbir **Tıbbi/Sağlık Verisini TOPLAMAZ, SAKLAMAZ ve İŞLEMEZ.**
+- **Kullanım Amacı:** Erişilen konum bilgisi sadece anlık mesafe hesaplaması (kullanıcı ile eczane arası) için kullanılır. Bu işlem tamamen cihaz üzerinde gerçekleşir; konumunuz sunucularımıza gönderilmez veya kaydedilmez.
 
 ### 2. Verilerin Saklanması ve Silinmesi (Data Deletion)
 - **Saklama:** Uygulamamız herhangi bir kullanıcı hesabı veya veri tabanı kaydı tutmamaktadır. Erişilen konum verileri anlık olarak kullanılır ve işlem bittiği an bellekten silinir. Kalıcı bir veri saklama süreci yoktur.

@@ -1,28 +1,24 @@
 # Nöbetçi Eczane Bul - Gizlilik Politikası
 
-Son Güncelleme: 17 Mart 2026
+Son Güncelleme: 18 Mart 2026
 
-MenekşeYNC olarak, "Nöbetçi Eczane Bul" uygulamamızı kullanan kullanıcılarımızın gizliliğine büyük önem veriyoruz. Bu politika, verilerinizin nasıl işlendiği ve silindiği hakkında sizi bilgilendirmek amacıyla hazırlanmıştır.
+MenekşeYNC ("biz"), "Nöbetçi Eczane Bul" mobil uygulaması aracılığıyla kullanıcılarımıza hizmet vermektedir. Bu gizlilik politikası, verilerinizin nasıl toplandığı, kullanıldığı ve açıklandığı hakkında sizi bilgilendirmek amacıyla, Google Play Kullanıcı Verileri Politikası'na uygun olarak hazırlanmıştır.
 
-### 1. Veri Toplama ve Kullanım Amacı
-Uygulamamızın temel işlevlerini yerine getirebilmesi için belirli verilere erişim sağlanmaktadır:
+### 1. Erişilen ve Toplanan Verilerin Açıklanması (Health Data ve Konum)
+Uygulamamız, nöbetçi eczaneleri bulma temel işlevini yerine getirmek için aşağıdaki verilere erişir:
 
-#### Konum Verileri ve Sağlık Verisi Bağlamı
-Uygulamamız, size en yakın nöbetçi eczaneleri harita üzerinde göstermek amacıyla cihazınızın **hassas konum verilerine (GPS ve ağ tabanlı)** erişir.
-- **Sağlık Verileri:** Uygulamamız; tıbbi kayıtlar, reçete bilgileri veya hastalık geçmişi gibi herhangi bir **kişisel sağlık verisini (PHI) TOPLAMAZ ve İŞLEMEZ.**
-- **Kullanım Biçimi:** Konum bilgisiniz anlık olarak sadece mesafe hesaplamak için kullanılır.
+- **Hassas Konum Verileri:** Size en yakın eczaneleri mesafe bazlı sıralayabilmek için cihazınızın hassas konumuna (GPS ve ağ tabanlı) erişiriz. 
+- **Sağlık Verileri (Health Data) Kapsamı:** Google Play politikaları gereği, eczane arama faaliyeti "Sağlık Verisi" kapsamında değerlendirilebilir. Uygulamamız; tıbbi durumunuz, ilaç reçeteleriniz veya kişisel sağlık geçmişinizle ilgili hiçbir **Tıbbi/Sağlık Verisini TOPLAMAZ, SAKLAMAZ ve İŞLEMEZ.** - **Kullanım Amacı:** Erişilen konum bilgisi sadece anlık mesafe hesaplaması (kullanıcı ile eczane arası) için kullanılır. Bu işlem tamamen cihaz üzerinde gerçekleşir; konumunuz sunucularımıza gönderilmez veya kaydedilmez.
 
-### 2. Veri Saklama ve Silme Politikası (Data Deletion)
-Kullanıcı gizliliğini korumak adına veri saklama politikamız şöyledir:
-- **Saklama Süresi:** Uygulamamız tarafından erişilen konum verileri **asla sunucularımızda saklanmaz.** İşlem bittiği an bellekten silinir.
-- **Veri Silme Talebi:** Uygulamamız herhangi bir kullanıcı hesabı veya kalıcı veri tutmadığı için silinecek bir veri tabanı kaydı bulunmamaktadır. Ancak, uygulama ayarlarından konum iznini kaldırarak veri erişimini anında sonlandırabilirsiniz. Verilerinizle ilgili her türlü soru ve talep için **menekseync@gmail.com** adresine ulaşabilirsiniz.
+### 2. Verilerin Saklanması ve Silinmesi (Data Deletion)
+- **Saklama:** Uygulamamız herhangi bir kullanıcı hesabı veya veri tabanı kaydı tutmamaktadır. Erişilen konum verileri anlık olarak kullanılır ve işlem bittiği an bellekten silinir. Kalıcı bir veri saklama süreci yoktur.
+- **Silme:** Uygulama üzerinde kalıcı veri tutulmadığı için kullanıcıların manuel olarak silebileceği bir veri seti bulunmamaktadır. Konum erişimini cihaz ayarlarınızdan istediğiniz zaman kapatabilirsiniz. Veri silme veya gizlilikle ilgili talepleriniz için **menekseync@gmail.com** adresinden bize ulaşabilirsiniz.
 
 ### 3. Veri Güvenliği ve Üçüncü Taraflar
-- Verileriniz asla üçüncü taraflara satılmaz veya pazarlama amacıyla paylaşılmaz.
-- Reklam sunumu için Google AdMob kullanılmaktadır; ancak sağlık veya hassas konum profillemesi yapılmaz.
+Toplanan veya erişilen veriler (konum ve arama sorguları) asla reklam ağlarına satılmaz veya sağlık profillemesi amacıyla üçüncü taraflarla paylaşılmaz. Uygulama içi reklamlar (Google AdMob) anonim tanımlayıcılar üzerinden çalışır.
 
 ### 4. Çocukların Gizliliği
-Uygulamamız 13 yaş altı çocuklardan bilerek veri toplamaz.
+Hizmetimiz 13 yaşın altındaki çocuklara yönelik değildir ve bu yaş grubundan bilerek veri toplamamaktadır.
 
 ### 5. İletişim
-Gizlilik politikamız hakkındaki sorularınız için: menekseync@gmail.com
+Gizlilik politikamızla ilgili sorularınız için: menekseync@gmail.com

@@ -1,26 +1,30 @@
-# Nöbetçi Eczane Bul - Gizlilik Politikası
+# Gizlilik Politikası (Privacy Policy)
 
-Son Güncelleme: 18 Mart 2026
+**Son Güncelleme:** 22 Nisan 2026
 
-MenekşeYNC olarak, "Nöbetçi Eczane Bul" uygulamamızı kullanan kullanıcılarımızın gizliliğine büyük önem veriyoruz.Bu politika, verilerinizin nasıl işlendiği ve silindiği hakkında sizi bilgilendirmek amacıyla hazırlanmıştır.
+**MenekşeYNC** olarak, “Nöbetçi Eczane Bul” uygulamamızı kullanan kullanıcılarımızın gizliliğine ve veri güvenliğine büyük önem veriyoruz. Bu politika, uygulamamızın (iOS ve Android) verilerinizi nasıl işlediği hakkında sizi bilgilendirmek amacıyla hazırlanmıştır.
 
+---
 
-### 1. Erişilen ve Toplanan Verilerin Açıklanması (Health Data ve Konum)
-Uygulamamız, nöbetçi eczaneleri bulma temel işlevini yerine getirmek için aşağıdaki verilere erişir:
+### 1. Erişilen ve Toplanan Veriler
+Uygulamamız, temel işlevini yerine getirmek için aşağıdaki verilere erişir:
 
-- **Hassas Konum Verileri:** Size en yakın eczaneleri mesafe bazlı sıralayabilmek için cihazınızın hassas konumuna (GPS ve ağ tabanlı) erişiriz. 
-- **Sağlık Verileri (Health Data) Kapsamı:** Google Play politikaları gereği, eczane arama faaliyeti "Sağlık Verisi" kapsamında değerlendirilebilir. Uygulamamız; tıbbi durumunuz, ilaç reçeteleriniz veya kişisel sağlık geçmişinizle ilgili hiçbir **Tıbbi/Sağlık Verisini TOPLAMAZ, SAKLAMAZ ve İŞLEMEZ.**
-- **Kullanım Amacı:** Erişilen konum bilgisi sadece anlık mesafe hesaplaması (kullanıcı ile eczane arası) için kullanılır. Bu işlem tamamen cihaz üzerinde gerçekleşir; konumunuz sunucularımıza gönderilmez veya kaydedilmez.
+* **Hassas Konum Verileri:** Size en yakın eczaneleri mesafelerine göre sıralayabilmek için cihazınızın hassas konumuna (GPS) erişiriz.
+* **Kullanım Amacı:** Konum bilgisi **sadece anlık mesafe hesaplaması** için kullanılır. Bu işlem tamamen cihazınızda gerçekleşir; konumunuz hiçbir şekilde sunucularımıza gönderilmez, kaydedilmez veya depolanmaz.
 
-### 2. Verilerin Saklanması ve Silinmesi (Data Deletion)
-- **Saklama:** Uygulamamız herhangi bir kullanıcı hesabı veya veri tabanı kaydı tutmamaktadır. Erişilen konum verileri anlık olarak kullanılır ve işlem bittiği an bellekten silinir. Kalıcı bir veri saklama süreci yoktur.
-- **Silme:** Uygulama üzerinde kalıcı veri tutulmadığı için kullanıcıların manuel olarak silebileceği bir veri seti bulunmamaktadır. Konum erişimini cihaz ayarlarınızdan istediğiniz zaman kapatabilirsiniz. Veri silme veya gizlilikle ilgili talepleriniz için **menekseync@gmail.com** adresinden bize ulaşabilirsiniz.
+### 2. Sağlık Verileri (Health Data) Beyanı
+Uygulama mağazası (App Store & Play Store) politikaları gereği eczane arama faaliyeti sağlıkla ilişkilendirilebilir. Uygulamamız; tıbbi durumunuz, reçeteleriniz veya kişisel sağlık geçmişinizle ilgili hiçbir **Tıbbi/Sağlık Verisini TOPLAMAZ, SAKLAMAZ ve ÜÇÜNCÜ TARAFLARLA PAYLAŞMAZ.**
 
-### 3. Veri Güvenliği ve Üçüncü Taraflar
-Toplanan veya erişilen veriler (konum ve arama sorguları) asla reklam ağlarına satılmaz veya sağlık profillemesi amacıyla üçüncü taraflarla paylaşılmaz. Uygulama içi reklamlar (Google AdMob) anonim tanımlayıcılar üzerinden çalışır.
+### 3. Verilerin Saklanması ve Silinmesi (Data Deletion)
+* **Saklama:** Uygulamamız kullanıcı hesabı oluşturmaz ve merkezi bir veri tabanı kaydı tutmaz. Konum verileri anlık işlem bittiği an bellekten (RAM) silinir.
+* **Silme:** Cihazda veya sunucuda kalıcı veri tutulmadığı için manuel olarak silinecek bir veri seti bulunmamaktadır. Konum erişimini cihaz ayarlarınızdan dilediğiniz zaman kapatabilirsiniz. Veri güvenliğiyle ilgili talepleriniz için **menekseync@gmail.com** üzerinden bize ulaşabilirsiniz.
 
-### 4. Çocukların Gizliliği
+### 4. Veri Güvenliği ve Üçüncü Taraflar
+Erişilen hiçbir veri reklam ağlarına satılmaz veya sağlık profillemesi amacıyla kullanılmaz. Uygulama içinde kullanılan **Google AdMob** reklam servisi, anonim tanımlayıcılar (iOS için **IDFA**, Android için **AAID**) üzerinden çalışır ve bu bilgiler kişisel kimlik bilgilerinizle eşleştirilmez.
+
+### 5. Çocukların Gizliliği
 Hizmetimiz 13 yaşın altındaki çocuklara yönelik değildir ve bu yaş grubundan bilerek veri toplamamaktadır.
 
-### 5. İletişim
-Gizlilik politikamızla ilgili sorularınız için: menekseync@gmail.com
+### 6. İletişim
+Gizlilik politikamızla ilgili tüm sorularınız ve geri bildirimleriniz için:
+📩 **menekseync@gmail.com**
